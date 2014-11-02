@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GBK"?>
+<checkstyle version="5.0">
+ <file name="D:\Scala\workspaceScala\hello-project\src\main\scala\greeter\Hello.scala">
+  <error line="1" severity="warning" message="Header does not match expected text" source="org.scalastyle.file.HeaderMatchesChecker"></error>
+  <error line="4" severity="warning" message="Regular expression matched 'println'" source="org.scalastyle.file.RegexChecker" column="2"></error>
+  <error severity="warning" message="File must end with newline character" source="org.scalastyle.file.NewLineAtEofChecker"></error>
+ </file>
+</checkstyle>

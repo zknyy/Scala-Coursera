@@ -1,0 +1,21 @@
+compile
+run
+styleCheck
+exit
+help
+project
+projects
+scalastyle
+exit
+scalastyle
+clean
+scalastyle
+clean
+compile
+clean
+compile
+scalastyle
+site
+submit
+submit liangzp2k@hotmail.com
+submit liangzp2k@hotmail.com 1234567890
